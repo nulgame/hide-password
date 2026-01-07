@@ -2,7 +2,7 @@
 
 Hide-password hides password during entering characters
 
-This library makes it easier to enter a password into the program by just momentarily visualizing the entered characters (like on a mobile phone). Each character is showed only by 0.1 sec.
+This library makes it easier to enter a password into the program by just momentarily visualizing the entered characters (like on a mobile phone). Each character is showed only by 0.1 sec, then covered by asterisk character. Backspace could be used as well.
 
 ## Building
 ```shell
